@@ -55,13 +55,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadzakyarifin&show_icons=true&theme=tokyonight" alt="Zaky's GitHub stats" width="100%" />
 </p>
 
-<h5 align="center" style="margin-top: 30px;">🎮 Play Games with me</h5>
+<h5 align="center" style="margin-top: 30px;">🎮 Play Game with me</h5>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadzakyarifin/ahmadzakyarifin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadzakyarifin/ahmadzakyarifin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmadzakyarifin/ahmadzakyarifin/output/pacman-contribution-graph.svg">
-</picture>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmadzakyarifin/ahmadzakyarifin/output/snake.svg" alt="Snake animation" width="100%" />
