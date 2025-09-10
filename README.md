@@ -57,7 +57,10 @@
 
 <h5 align="center" style="margin-top: 30px;">🎮 Play Games with me</h5>
 
-![Pac-Man animation](https://raw.githubusercontent.com/ahmadzakyarifin/ahmadzakyarifin/output/github-contribution-grid-pacman.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 
