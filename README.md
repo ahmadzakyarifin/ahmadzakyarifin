@@ -54,3 +54,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadzakyarifin&show_icons=true&theme=tokyonight" alt="Zaky's GitHub stats" width="100%" />
 </p>
+
+<h5 align="center" style="margin-top: 30px;">🎮 Play Games with me</h5>
+
+  ![Pac-Man animation](https://raw.githubusercontent.com/ahmadzakyarifin/ahmadzakyarifin/output/github-contribution-grid-pacman.svg)
+
+
