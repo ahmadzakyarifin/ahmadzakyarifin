@@ -57,6 +57,7 @@
 
 <h5 align="center" style="margin-top: 30px;">🎮 Play Games with me</h5>
 
-  ![Pac-Man animation](https://raw.githubusercontent.com/ahmadzakyarifin/ahmadzakyarifin/output/github-contribution-grid-pacman.svg)
+![Pac-Man animation](https://raw.githubusercontent.com/ahmadzakyarifin/ahmadzakyarifin/output/github-contribution-grid-pacman.svg)
+
 
 
